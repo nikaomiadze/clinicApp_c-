@@ -28,6 +28,21 @@ namespace clinic.Controllers
             }
             return Ok();
         }
+        [HttpGet("/get_doctor_booking/{id}")]
+        public List<Booking> GetDoctorBooking(int id)
+        {
+            List<Booking> list = new List<Booking>();
+
+            try
+            {
+                list = package.Get_doctor_booking(id);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            return list;
+        }
 
 
 

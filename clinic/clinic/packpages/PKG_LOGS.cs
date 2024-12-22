@@ -22,7 +22,7 @@ namespace clinic.packpages
                 conn.Open();
                 OracleCommand cmd = new OracleCommand();
                 cmd.Connection = conn;
-                cmd.CommandText = "olerning.PKG_NO_CLINIC_LOGS.add_logs";
+                cmd.CommandText = "SYS.PKG_NO_CLINIC_LOGS.add_logs";
                 cmd.CommandType = System.Data.CommandType.StoredProcedure;
                 cmd.Parameters.Add("p_message", OracleDbType.Varchar2).Value = message;
                 cmd.Parameters.Add("p_email", OracleDbType.Varchar2).Value = email;
