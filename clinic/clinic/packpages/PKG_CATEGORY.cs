@@ -20,7 +20,7 @@ namespace clinic.packpages
             conn.Open();
             OracleCommand cmd = new OracleCommand();
             cmd.Connection = conn;
-            cmd.CommandText = "SYS.PKG_NO_CLINIC_CATEGORY.Get_cat";
+            cmd.CommandText = "olerning.PKG_NO_CLINIC_CATEGORY.Get_cat";
             cmd.CommandType = System.Data.CommandType.StoredProcedure;
             cmd.Parameters.Add("p_result", OracleDbType.RefCursor).Direction = ParameterDirection.Output;
 

@@ -1,77 +1,77 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\",
+  "WorkspaceRootPath": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\lenovo\\desktop\\clinicapp_c-\\clinic\\clinic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|solutionrelative:clinic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\lenovo\\desktop\\clinicapp_c-\\clinic\\clinic\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\nikoloz.omiadze\\desktop\\clinicapp_c-\\clinic\\clinic\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|solutionrelative:clinic\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\lenovo\\desktop\\clinicapp_c-\\clinic\\clinic\\packpages\\pkg_booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|solutionrelative:clinic\\packpages\\pkg_booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\lenovo\\desktop\\clinicapp_c-\\clinic\\clinic\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\nikoloz.omiadze\\desktop\\clinicapp_c-\\clinic\\clinic\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|solutionrelative:clinic\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\lenovo\\desktop\\clinicapp_c-\\clinic\\clinic\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|solutionrelative:clinic\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\nikoloz.omiadze\\desktop\\clinicapp_c-\\clinic\\clinic\\packpages\\pkg_booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|solutionrelative:clinic\\packpages\\pkg_booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\lenovo\\desktop\\clinicapp_c-\\clinic\\clinic\\packpages\\pkg_doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\nikoloz.omiadze\\desktop\\clinicapp_c-\\clinic\\clinic\\packpages\\pkg_doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|solutionrelative:clinic\\packpages\\pkg_doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\lenovo\\desktop\\clinicapp_c-\\clinic\\clinic\\packpages\\pkg_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|solutionrelative:clinic\\packpages\\pkg_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\lenovo\\desktop\\clinicapp_c-\\clinic\\clinic\\packpages\\pkg_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|solutionrelative:clinic\\packpages\\pkg_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\lenovo\\desktop\\clinicapp_c-\\clinic\\clinic\\packpages\\pkg_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\nikoloz.omiadze\\desktop\\clinicapp_c-\\clinic\\clinic\\packpages\\pkg_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|solutionrelative:clinic\\packpages\\pkg_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\lenovo\\desktop\\clinicapp_c-\\clinic\\clinic\\packpages\\pkg_logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\nikoloz.omiadze\\desktop\\clinicapp_c-\\clinic\\clinic\\packpages\\pkg_logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|solutionrelative:clinic\\packpages\\pkg_logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\lenovo\\desktop\\clinicapp_c-\\clinic\\clinic\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\nikoloz.omiadze\\desktop\\clinicapp_c-\\clinic\\clinic\\packpages\\pkg_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|solutionrelative:clinic\\packpages\\pkg_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\nikoloz.omiadze\\desktop\\clinicapp_c-\\clinic\\clinic\\packpages\\pkg_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|solutionrelative:clinic\\packpages\\pkg_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\nikoloz.omiadze\\desktop\\clinicapp_c-\\clinic\\clinic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|solutionrelative:clinic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\nikoloz.omiadze\\desktop\\clinicapp_c-\\clinic\\clinic\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|solutionrelative:clinic\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\nikoloz.omiadze\\desktop\\clinicapp_c-\\clinic\\clinic\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|solutionrelative:clinic\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\lenovo\\desktop\\clinicapp_c-\\clinic\\clinic\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\nikoloz.omiadze\\desktop\\clinicapp_c-\\clinic\\clinic\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|solutionrelative:clinic\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\lenovo\\desktop\\clinicapp_c-\\clinic\\clinic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\nikoloz.omiadze\\desktop\\clinicapp_c-\\clinic\\clinic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|solutionrelative:clinic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\lenovo\\desktop\\clinicapp_c-\\clinic\\clinic\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\nikoloz.omiadze\\desktop\\clinicapp_c-\\clinic\\clinic\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|solutionrelative:clinic\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\lenovo\\desktop\\clinicapp_c-\\clinic\\clinic\\models\\doctor_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\nikoloz.omiadze\\desktop\\clinicapp_c-\\clinic\\clinic\\models\\doctor_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|solutionrelative:clinic\\models\\doctor_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\lenovo\\desktop\\clinicapp_c-\\clinic\\clinic\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\nikoloz.omiadze\\desktop\\clinicapp_c-\\clinic\\clinic\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|solutionrelative:clinic\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\lenovo\\desktop\\clinicapp_c-\\clinic\\clinic\\auth\\jwtmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\nikoloz.omiadze\\desktop\\clinicapp_c-\\clinic\\clinic\\auth\\jwtmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|solutionrelative:clinic\\auth\\jwtmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\lenovo\\desktop\\clinicapp_c-\\clinic\\clinic\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|c:\\users\\nikoloz.omiadze\\desktop\\clinicapp_c-\\clinic\\clinic\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4CD4351-B5A3-4AB5-BBD1-8AE8F9F476BA}|clinic\\clinic.csproj|solutionrelative:clinic\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -82,56 +82,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "PKG_ADMIN.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\clinic\\packpages\\PKG_ADMIN.cs",
+              "DocumentMoniker": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\clinic\\packpages\\PKG_ADMIN.cs",
               "RelativeDocumentMoniker": "clinic\\packpages\\PKG_ADMIN.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\clinic\\packpages\\PKG_ADMIN.cs",
+              "ToolTip": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\clinic\\packpages\\PKG_ADMIN.cs",
               "RelativeToolTip": "clinic\\packpages\\PKG_ADMIN.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T08:33:38.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T08:33:38.995Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "PKG_LOGS.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\clinic\\packpages\\PKG_LOGS.cs",
+              "DocumentMoniker": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\clinic\\packpages\\PKG_LOGS.cs",
               "RelativeDocumentMoniker": "clinic\\packpages\\PKG_LOGS.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\clinic\\packpages\\PKG_LOGS.cs",
+              "ToolTip": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\clinic\\packpages\\PKG_LOGS.cs",
               "RelativeToolTip": "clinic\\packpages\\PKG_LOGS.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBgAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T10:08:33.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T10:08:33.786Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\clinic\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\clinic\\appsettings.json",
               "RelativeDocumentMoniker": "clinic\\appsettings.json",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\clinic\\appsettings.json",
+              "ToolTip": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\clinic\\appsettings.json",
               "RelativeToolTip": "clinic\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-25T06:26:03.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T06:26:03.355Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "DoctorController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\clinic\\Controllers\\DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\clinic\\Controllers\\DoctorController.cs",
               "RelativeDocumentMoniker": "clinic\\Controllers\\DoctorController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\clinic\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\clinic\\Controllers\\DoctorController.cs",
               "RelativeToolTip": "clinic\\Controllers\\DoctorController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwC4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAmwGUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T08:57:13.236Z",
               "EditorCaption": ""
@@ -140,9 +137,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\clinic\\Controllers\\UserController.cs",
+              "DocumentMoniker": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\clinic\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "clinic\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\clinic\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\clinic\\Controllers\\UserController.cs",
               "RelativeToolTip": "clinic\\Controllers\\UserController.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAgwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -153,37 +150,36 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "PKG_CATEGORY.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\clinic\\packpages\\PKG_CATEGORY.cs",
+              "DocumentMoniker": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\clinic\\packpages\\PKG_CATEGORY.cs",
               "RelativeDocumentMoniker": "clinic\\packpages\\PKG_CATEGORY.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\clinic\\packpages\\PKG_CATEGORY.cs",
+              "ToolTip": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\clinic\\packpages\\PKG_CATEGORY.cs",
               "RelativeToolTip": "clinic\\packpages\\PKG_CATEGORY.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T10:57:24.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T10:57:24.091Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "PKG_DOCTOR.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\clinic\\packpages\\PKG_DOCTOR.cs",
+              "DocumentMoniker": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\clinic\\packpages\\PKG_DOCTOR.cs",
               "RelativeDocumentMoniker": "clinic\\packpages\\PKG_DOCTOR.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\clinic\\packpages\\PKG_DOCTOR.cs",
+              "ToolTip": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\clinic\\packpages\\PKG_DOCTOR.cs",
               "RelativeToolTip": "clinic\\packpages\\PKG_DOCTOR.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAYwF0AAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAPQAAAAAAAAAAAAUwA8BAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T08:33:24.693Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "PKG_USER.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\clinic\\packpages\\PKG_USER.cs",
+              "DocumentMoniker": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\clinic\\packpages\\PKG_USER.cs",
               "RelativeDocumentMoniker": "clinic\\packpages\\PKG_USER.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\clinic\\packpages\\PKG_USER.cs",
+              "ToolTip": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\clinic\\packpages\\PKG_USER.cs",
               "RelativeToolTip": "clinic\\packpages\\PKG_USER.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwCMAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAiwOMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T08:13:48.18Z",
               "EditorCaption": ""
@@ -192,37 +188,36 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "PKG_BOOKING.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\clinic\\packpages\\PKG_BOOKING.cs",
+              "DocumentMoniker": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\clinic\\packpages\\PKG_BOOKING.cs",
               "RelativeDocumentMoniker": "clinic\\packpages\\PKG_BOOKING.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\clinic\\packpages\\PKG_BOOKING.cs",
+              "ToolTip": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\clinic\\packpages\\PKG_BOOKING.cs",
               "RelativeToolTip": "clinic\\packpages\\PKG_BOOKING.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAuwEkAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T07:52:43.22Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Booking.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\clinic\\models\\Booking.cs",
+              "DocumentMoniker": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\clinic\\models\\Booking.cs",
               "RelativeDocumentMoniker": "clinic\\models\\Booking.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\clinic\\models\\Booking.cs",
+              "ToolTip": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\clinic\\models\\Booking.cs",
               "RelativeToolTip": "clinic\\models\\Booking.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T07:27:23.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T07:27:23.012Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BookingController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\clinic\\Controllers\\BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\clinic\\Controllers\\BookingController.cs",
               "RelativeDocumentMoniker": "clinic\\Controllers\\BookingController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\clinic\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\clinic\\Controllers\\BookingController.cs",
               "RelativeToolTip": "clinic\\Controllers\\BookingController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAmwCYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowDoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T08:05:01.945Z",
               "EditorCaption": ""
@@ -231,9 +226,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\clinic\\Controllers\\AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\clinic\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "clinic\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\clinic\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\clinic\\Controllers\\AdminController.cs",
               "RelativeToolTip": "clinic\\Controllers\\AdminController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -244,9 +239,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Doctor.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\clinic\\models\\Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\clinic\\models\\Doctor.cs",
               "RelativeDocumentMoniker": "clinic\\models\\Doctor.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\clinic\\models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\clinic\\models\\Doctor.cs",
               "RelativeToolTip": "clinic\\models\\Doctor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -256,9 +251,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\clinic\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\clinic\\Program.cs",
               "RelativeDocumentMoniker": "clinic\\Program.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\clinic\\Program.cs",
+              "ToolTip": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\clinic\\Program.cs",
               "RelativeToolTip": "clinic\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAiwBoAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -268,9 +263,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Doctor_update.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\clinic\\models\\Doctor_update.cs",
+              "DocumentMoniker": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\clinic\\models\\Doctor_update.cs",
               "RelativeDocumentMoniker": "clinic\\models\\Doctor_update.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\clinic\\models\\Doctor_update.cs",
+              "ToolTip": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\clinic\\models\\Doctor_update.cs",
               "RelativeToolTip": "clinic\\models\\Doctor_update.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -280,9 +275,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\clinic\\models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\clinic\\models\\User.cs",
               "RelativeDocumentMoniker": "clinic\\models\\User.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\clinic\\models\\User.cs",
+              "ToolTip": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\clinic\\models\\User.cs",
               "RelativeToolTip": "clinic\\models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -292,9 +287,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\clinic\\models\\Category.cs",
+              "DocumentMoniker": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\clinic\\models\\Category.cs",
               "RelativeDocumentMoniker": "clinic\\models\\Category.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\clinic\\models\\Category.cs",
+              "ToolTip": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\clinic\\models\\Category.cs",
               "RelativeToolTip": "clinic\\models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -304,9 +299,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "JWTmanager.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\clinic\\auth\\JWTmanager.cs",
+              "DocumentMoniker": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\clinic\\auth\\JWTmanager.cs",
               "RelativeDocumentMoniker": "clinic\\auth\\JWTmanager.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\clinic\\auth\\JWTmanager.cs",
+              "ToolTip": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\clinic\\auth\\JWTmanager.cs",
               "RelativeToolTip": "clinic\\auth\\JWTmanager.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -33,7 +33,7 @@ namespace clinic.packpages
 
                 OracleCommand cmd = new OracleCommand();
                 cmd.Connection = conn;
-                cmd.CommandText = "SYS.PKG_NO_CLINIC.Add_User";
+                cmd.CommandText = "olerning.PKG_NO_CLINIC.Add_User";
                 cmd.CommandType = System.Data.CommandType.StoredProcedure;
                 cmd.Parameters.Add("v_first_name", OracleDbType.Varchar2).Value = user.FirstName;
                 cmd.Parameters.Add("v_last_name", OracleDbType.Varchar2).Value = user.LastName;
@@ -81,7 +81,7 @@ namespace clinic.packpages
             conn.Open();
             OracleCommand cmd = new OracleCommand();
             cmd.Connection = conn;
-            cmd.CommandText = "SYS.PKG_NO_CLINIC.Get_User";
+            cmd.CommandText = "olerning.PKG_NO_CLINIC.Get_User";
             cmd.CommandType = System.Data.CommandType.StoredProcedure;
             cmd.Parameters.Add("p_result", OracleDbType.RefCursor).Direction = ParameterDirection.Output;
 
@@ -125,7 +125,7 @@ namespace clinic.packpages
             conn.Open();
             OracleCommand cmd = new OracleCommand();
             cmd.Connection = conn;
-            cmd.CommandText = "SYS.PKG_NO_CLINIC.Add_v_code";
+            cmd.CommandText = "olerning.PKG_NO_CLINIC.Add_v_code";
             cmd.CommandType = System.Data.CommandType.StoredProcedure;
             cmd.Parameters.Add("v_to_email", OracleDbType.Varchar2).Value = toEmail;
             cmd.Parameters.Add("v_verification_code", OracleDbType.Int32).Value = verificationCode;
@@ -146,7 +146,7 @@ namespace clinic.packpages
                 using (OracleCommand cmd = new OracleCommand())
                 {
                     cmd.Connection = conn;
-                    cmd.CommandText = "SYS.PKG_NO_CLINIC.Validate_Verification_Code";
+                    cmd.CommandText = "olerning.PKG_NO_CLINIC.Validate_Verification_Code";
                     cmd.CommandType = CommandType.StoredProcedure;
                     cmd.Parameters.Add("v_email", OracleDbType.Varchar2).Value = email;
                     cmd.Parameters.Add("v_verification_code", OracleDbType.Varchar2).Value = verificationCode;
@@ -191,7 +191,7 @@ namespace clinic.packpages
             conn.Open();
             OracleCommand cmd = new OracleCommand();
             cmd.Connection = conn;
-            cmd.CommandText = "SYS.PKG_NO_CLINIC.auth_user";
+            cmd.CommandText = "olerning.PKG_NO_CLINIC.auth_user";
             cmd.CommandType = System.Data.CommandType.StoredProcedure;
 
             cmd.Parameters.Add("p_email", OracleDbType.Varchar2).Value = loginData.Email;
@@ -225,7 +225,7 @@ namespace clinic.packpages
             conn.Open();
             OracleCommand cmd = new OracleCommand();
             cmd.Connection = conn;
-            cmd.CommandText = "SYS.PKG_NO_CLINIC.Get_user_byid";
+            cmd.CommandText = "olerning.PKG_NO_CLINIC.Get_user_byid";
             cmd.CommandType = System.Data.CommandType.StoredProcedure;
             cmd.Parameters.Add("v_id",OracleDbType.Int32).Value=id;
             cmd.Parameters.Add("p_result", OracleDbType.RefCursor).Direction = ParameterDirection.Output;

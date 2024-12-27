@@ -28,7 +28,7 @@ namespace clinic.packpages
             conn.Open();
             OracleCommand cmd = new OracleCommand();
             cmd.Connection = conn;
-            cmd.CommandText = "SYS.PKG_NO_CLINIC_DOCTOR.Get_doctor";
+            cmd.CommandText = "olerning.PKG_NO_CLINIC_DOCTOR.Get_doctor";
             cmd.CommandType = System.Data.CommandType.StoredProcedure;
             cmd.Parameters.Add("p_result", OracleDbType.RefCursor).Direction = ParameterDirection.Output;
 
@@ -77,7 +77,7 @@ namespace clinic.packpages
             conn.Open();
             OracleCommand cmd = new OracleCommand();
             cmd.Connection = conn;
-            cmd.CommandText = "SYS.PKG_NO_CLINIC_DOCTOR.Get_doctors_bycat";
+            cmd.CommandText = "olerning.PKG_NO_CLINIC_DOCTOR.Get_doctors_bycat";
             cmd.CommandType = System.Data.CommandType.StoredProcedure;
             cmd.Parameters.Add("v_category_id", OracleDbType.Int32).Value = id;
             cmd.Parameters.Add("p_result", OracleDbType.RefCursor).Direction = ParameterDirection.Output;
@@ -121,7 +121,7 @@ namespace clinic.packpages
             conn.Open();
             OracleCommand cmd = new OracleCommand();
             cmd.Connection = conn;
-            cmd.CommandText = "SYS.PKG_NO_CLINIC_DOCTOR.Get_Doctor_byid";
+            cmd.CommandText = "olerning.PKG_NO_CLINIC_DOCTOR.Get_Doctor_byid";
             cmd.CommandType = System.Data.CommandType.StoredProcedure;
             cmd.Parameters.Add("v_id", OracleDbType.Int32).Value = id;
             cmd.Parameters.Add("p_result", OracleDbType.RefCursor).Direction = ParameterDirection.Output;
@@ -167,7 +167,7 @@ namespace clinic.packpages
             conn.Open();
             OracleCommand cmd = new OracleCommand();
             cmd.Connection = conn;
-            cmd.CommandText = "SYS.PKG_NO_CLINIC_DOCTOR.Get_Doctor_By_Username";
+            cmd.CommandText = "olerning.PKG_NO_CLINIC_DOCTOR.Get_Doctor_By_Username";
             cmd.CommandType = System.Data.CommandType.StoredProcedure;
             cmd.Parameters.Add("p_username", OracleDbType.Varchar2).Value = username;
             cmd.Parameters.Add("p_result", OracleDbType.RefCursor).Direction = ParameterDirection.Output;
@@ -213,7 +213,7 @@ namespace clinic.packpages
             conn.Open();
             OracleCommand cmd = new OracleCommand();
             cmd.Connection = conn;
-            cmd.CommandText = "SYS.PKG_NO_CLINIC_DOCTOR.Get_Doctors_By_Category";
+            cmd.CommandText = "olerning.PKG_NO_CLINIC_DOCTOR.Get_Doctors_By_Category";
             cmd.CommandType = System.Data.CommandType.StoredProcedure;
             cmd.Parameters.Add("v_category_name)", OracleDbType.Varchar2).Value = category_name;
             cmd.Parameters.Add("p_result", OracleDbType.RefCursor).Direction = ParameterDirection.Output;
@@ -259,7 +259,7 @@ namespace clinic.packpages
             conn.Open();
             OracleCommand cmd = new OracleCommand();
             cmd.Connection = conn;
-            cmd.CommandText = "SYS.PKG_NO_CLINIC_DOCTOR.Delete_Doctor_by_id";
+            cmd.CommandText = "olerning.PKG_NO_CLINIC_DOCTOR.Delete_Doctor_by_id";
             cmd.CommandType = System.Data.CommandType.StoredProcedure;
             cmd.Parameters.Add("p_id", OracleDbType.Int32).Value = id;
 

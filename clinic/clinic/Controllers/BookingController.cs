@@ -43,6 +43,20 @@ namespace clinic.Controllers
             }
             return list;
         }
+        [HttpDelete("/delete_booking_by_id/{id}")]
+        public IActionResult DeleteDoctorById(int id)
+        {
+            try
+            {
+                package.Delete_booking_by_id(id);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            return Ok("booking deleted successfully");
+
+        }
 
 
 

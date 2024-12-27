@@ -25,7 +25,7 @@ namespace clinic.packpages
             try
             {
                 cmd.Connection = conn;
-                cmd.CommandText = "SYS.PKG_NO_CLINIC_DOCTOR.Add_Doctor";
+                cmd.CommandText = "olerning.PKG_NO_CLINIC_DOCTOR.Add_Doctor";
                 cmd.CommandType = System.Data.CommandType.StoredProcedure;
                 cmd.Parameters.Add("v_first_name", OracleDbType.Varchar2).Value = doctor.FirstName;
                 cmd.Parameters.Add("v_last_name", OracleDbType.Varchar2).Value = doctor.LastName;
@@ -83,7 +83,7 @@ namespace clinic.packpages
             try
             {
                 cmd.Connection = conn;
-                cmd.CommandText = "SYS.PKG_NO_CLINIC_DOCTOR.update_doctor";
+                cmd.CommandText = "olerning.PKG_NO_CLINIC_DOCTOR.update_doctor";
                 cmd.CommandType = System.Data.CommandType.StoredProcedure;
                 cmd.Parameters.Add("v_id", OracleDbType.Int32).Value = id;
                 cmd.Parameters.Add("v_email", OracleDbType.Varchar2).Value = newvalues.Email;

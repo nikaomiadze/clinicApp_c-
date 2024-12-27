@@ -1378,19 +1378,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LENOVO\\.nuget\\packages\\": {}
+    "C:\\Users\\nikoloz.omiadze\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\clinic\\clinic.csproj",
+      "projectUniqueName": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\clinic\\clinic.csproj",
       "projectName": "clinic",
-      "projectPath": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\clinic\\clinic.csproj",
-      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\Desktop\\clinicApp_c-\\clinic\\clinic\\obj\\",
+      "projectPath": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\clinic\\clinic.csproj",
+      "packagesPath": "C:\\Users\\nikoloz.omiadze\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nikoloz.omiadze\\Desktop\\clinicApp_c-\\clinic\\clinic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nikoloz.omiadze\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1470,7 +1470,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
